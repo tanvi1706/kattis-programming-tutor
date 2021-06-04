@@ -24,3 +24,10 @@ for name in counts.keys():
         print(name)
 
 
+
+
+
+#         B A A C C
+#Adrain:  A B C A B
+#Bruno:   B A B C B
+#         C C A A B
